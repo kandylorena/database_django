@@ -46,3 +46,6 @@ class Meta:
         # Esto obliga a que la combinación de título y autor sea ÚNICA en la base de datos
         unique_together = (('titulo', 'autor'),)
 
+
+
+Link git https://github.com/kandylorena/database_django.git
